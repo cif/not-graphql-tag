@@ -1,3 +1,7 @@
+
+# THIS IS A FORK.
+I made this because GatsbyJS is somehow leveraging this module during build time and trying to validate data sources against queries I want executed remotely (runtime).
+
 # graphql-tag
 [![npm version](https://badge.fury.io/js/graphql-tag.svg)](https://badge.fury.io/js/graphql-tag)
 [![Build Status](https://travis-ci.org/apollographql/graphql-tag.svg?branch=master)](https://travis-ci.org/apollographql/graphql-tag)
